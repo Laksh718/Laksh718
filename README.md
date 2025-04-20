@@ -51,8 +51,5 @@ while(alive) {
   <img src="https://streak-stats.demolab.com?user=Laksh718&mode=daily&theme=dracula&hide_border=true" height="120" alt="streak graph" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laksh718/Laksh718/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laksh718/Laksh718/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Laksh718/Laksh718/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Contribution Graph -->
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Laksh718/Laksh718/output/pacman-contribution-graph.svg" style="max-width: 100%; height: auto;" />
