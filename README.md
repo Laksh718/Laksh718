@@ -51,5 +51,3 @@ while(alive) {
   <img src="https://streak-stats.demolab.com?user=Laksh718&mode=daily&theme=dracula&hide_border=true" height="120" alt="streak graph" />
 </div>
 
-<!-- Alternative contribution graph (if the previous one doesn't work) -->
-<img alt="contribution graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Laksh718&theme=dracula" style="max-width: 100%; height: auto;" />
