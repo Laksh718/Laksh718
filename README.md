@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Laksh%20Baweja&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Builder%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=16" width="100%" alt="Laksh Baweja" />
 
+<img src="./assets/pixel-card.svg" width="100%" alt="Animated pixel-art portrait of Laksh next to a terminal" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+AI+products+that+help+real+people;Hackathons+%E2%86%92+shipped+products;Full-stack+%2B+ML+%2B+a+lot+of+coffee+%E2%98%95" alt="Typing SVG" /></a>
 
 <a href="https://www.laksh.codes"><img src="https://img.shields.io/badge/Portfolio-laksh.codes-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -109,6 +111,11 @@ while (alive) {
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laksh718&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Laksh718&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laksh718/Laksh718/output/github-snake-dark.svg" />
+    <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Laksh718/Laksh718/output/github-snake.svg" />
+  </picture>
   <br/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laksh718&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
 </div>
